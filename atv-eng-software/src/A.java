@@ -30,4 +30,8 @@ public class A {
         System.out.println("MA3");
     }
 
+    public Integer getSoma(Integer a, Integer b){
+        return a+b;
+    }
+
 }
